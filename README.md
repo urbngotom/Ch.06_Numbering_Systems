@@ -3,8 +3,12 @@
 In this chapter you will be learning about numbering systems. 
 
 <h3>Video List</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1oyr3lHKJJg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <ol>
   <li>Decimal</li>
+  
   <li>Binary</li>
   <li>Octal</li>
   <li>Hexadecimal</li>
