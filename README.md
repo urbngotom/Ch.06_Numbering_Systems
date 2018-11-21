@@ -1,24 +1,22 @@
 <img align="left" src="http://hermonswebsites.com/Classes/CS/python.png"><H2><a href="https://sites.google.com/urbandaleschools.com/pythonjedi/6-numbering-systems" target="_blank">Chapter 6 Numbering Systems</a></H2>
 
-In this chapter you will be learning about numbering systems. 
+In this chapter you will be learning about numbering systems. Below are video tutorials on everything you need to know about Numbering Systems and how to convert between them.
 
 <h3>Video List</h3>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1oyr3lHKJJg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <ol>
-  <li>Decimal</li>
-  
-  <li>Binary</li>
-  <li>Octal</li>
-  <li>Hexadecimal</li>
-  <li>Converting</li>
-  <li>ASCII</li>
-  <li>RGB</li>
+  <li><a href="https://youtu.be/1oyr3lHKJJg" target="_blank">Decimal</a></li>
+  <li><a href="https://youtu.be/tqAsXW2kRlc" target="_blank">Binary</a></li>
+  <li><a href="https://youtu.be/F6TF2Vh5_E0" target="_blank">Octal</a></li>
+  <li><a href="https://youtu.be/_ngxDn-LpQY" target="_blank">Hexadecimal</a></li>
+  <li><a href="https://youtu.be/hMZt-Iz0hFc" target="_blank">Conversions</a></li>
+  <li><a href="https://youtu.be/Fq613urEl28" target="_blank">ASCII</a></li>
+  <li><a href="https://youtu.be/M8fFjAXOsgc" target="_blank">RGB</a></li>
   </ol>
 
 <h3>Jedi Tasks</h3>
 <ol>
-  <li>Binary E-Lab</li>
+  <li><a href="https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw" target="_blank">Binary Game</a></li>
+  <li>E-Labs on Scholar: Decimal/Binary, Octal, Hexadecimal, Conversions, ASCII, RGB</li>
   <li>Take Home Test</li>
+  <li>Scholar Overall Test</li>
   </ol>
