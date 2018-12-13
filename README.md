@@ -1,4 +1,4 @@
-<img align="left" src="http://hermonswebsites.com/Classes/CS/python.png"><H2><a href="https://sites.google.com/urbandaleschools.com/pythonjedi/6-numbering-systems" target="_blank">Chapter 6 Numbering Systems</a></H2>
+Chapter 6 Numbering Systems</H2>
 
 In this chapter you will be learning about numbering systems. Below are video tutorials on everything you need to know about Numbering Systems and how to convert between them.
 
