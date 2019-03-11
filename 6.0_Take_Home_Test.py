@@ -1,5 +1,5 @@
 '''
-HONOR CODE: I solemnly promise that while taking this test I will only use any resources except my brain.
+HONOR CODE: I solemnly promise that while taking this test I will not use any resources except my brain.
 Signed: ______________________
 
 
