@@ -17,6 +17,6 @@ In this chapter you will be learning about numbering systems. Below are video tu
 <ol>
   <li><a href="https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw" target="_blank">Binary Game</a></li>
   <li>E-Labs on Scholar: Decimal/Binary, Octal, Hexadecimal, Conversions, ASCII, RGB</li>
-  <li>Take Home Test</li>
+  <li>Jedi Training</li>
   <li>Scholar Overall Test</li>
   </ol>
