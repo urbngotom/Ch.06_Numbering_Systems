@@ -1,5 +1,5 @@
 '''
-6.0 Jedi Training 15pts)  Name:________________
+6.0 Jedi Training (15pts)  Name:________________
 
 
 1.) Convert Binary 101010 to Hexadecimal. (1pt)
