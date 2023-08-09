@@ -13,9 +13,3 @@ In this chapter you will be learning about numbering systems. Below are video tu
   <li><a href="https://youtu.be/M8fFjAXOsgc" target="_blank">RGB</a></li>
   </ol>
 
-<h3>Jedi Tasks</h3>
-<ol>
-  <li><a href="https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw" target="_blank">Binary Game</a></li>
-  <li>E-Lab on CANVAS</li>
-  <li>Jedi Training</li>
-  </ol>
